@@ -2,7 +2,7 @@
 
 Organigrama de la estructura propuesta para la integración posterior a la adquisición de **NutriFun** por **HealthySnacks LATAM**, elaborado como parte de la *Evidencia Final* de la materia **Fundamentos de Fusiones y Adquisiciones** (Universidad Tecmilenio).
 
-![Organigrama de integración HealthySnacks – NutriFun](Organigrama_Integracion_HS_NutriFun.png)
+![Organigrama de integración HealthySnacks – NutriFun](Organigrama_Integracion_HealthySnacks_NutriFun.png)
 
 ## Descripción
 
@@ -15,9 +15,9 @@ Organigrama de la estructura propuesta para la integración posterior a la adqui
 
 | Archivo | Descripción |
 |---|---|
-| `Organigrama_Integracion_HS_NutriFun.png` | Imagen del organigrama |
-| `Organigrama_Integracion_HS_NutriFun.pdf` | Versión en PDF |
-| `Organigrama_Integracion_HS_NutriFun.vsdx` | Archivo editable de Microsoft Visio |
+| `Organigrama_Integracion_HealthySnacks_NutriFun.png` | Imagen del organigrama |
+| `Organigrama_Integracion_HealthySnacks_NutriFun.pdf` | Versión en PDF |
+| `Organigrama_Integracion_HealthySnacks_NutriFun.vsdx` | Archivo editable de Microsoft Visio |
 
 ## Autor
 
@@ -25,4 +25,4 @@ Luis Ricardo Rivera Goitia — Universidad Tecmilenio, 2026.
 
 ## Cómo citar (APA 7)
 
-Rivera Goitia, L. R. (2026). *Organigrama de integración HealthySnacks – NutriFun* [Repositorio de GitHub]. GitHub. https://github.com/USUARIO/organigrama-integracion-healthysnacks-nutrifun
+Rivera Goitia, L. R. (2026). *Organigrama de integración HealthySnacks – NutriFun* [Repositorio de GitHub]. GitHub. https://github.com/ricgoitia/organigrama-integracion-healthysnacks-nutrifun
